@@ -1,0 +1,102 @@
+[
+	{
+		"id": 1,
+		"firstName": "Erastus",
+		"lastName": "Kuhlmey",
+		"email": "ekuhlmey0@mysql.com",
+		"gender": "Male",
+		"zip": 486,
+		"birthdate": "12/4/2019",
+		"city": "Nice"
+	},
+	{
+		"id": 2,
+		"firstName": "Rickie",
+		"lastName": "Ayrton",
+		"email": "rayrton1@altervista.org",
+		"gender": "Male",
+		"zip": 607,
+		"birthdate": "2/9/2020",
+		"city": "Santa Cruz"
+	},
+	{
+		"id": 3,
+		"firstName": "Dianne",
+		"lastName": "McGiff",
+		"email": "dmcgiff2@boston.com",
+		"gender": "Female",
+		"zip": 588,
+		"birthdate": "9/9/2019",
+		"city": "Leksand"
+	},
+	{
+		"id": 4,
+		"firstName": "Alice",
+		"lastName": "Rahl",
+		"email": "arahl3@dmoz.org",
+		"gender": "Female",
+		"zip": 970,
+		"birthdate": "2/24/2020",
+		"city": "Nong Yai"
+	},
+	{
+		"id": 5,
+		"firstName": "Beatrix",
+		"lastName": "Armin",
+		"email": "barmin4@theatlantic.com",
+		"gender": "Female",
+		"zip": 794,
+		"birthdate": "7/22/2019",
+		"city": "Suqin Huimin"
+	},
+	{
+		"id": 6,
+		"firstName": "Maxi",
+		"lastName": "Blaisdell",
+		"email": "mblaisdell5@webs.com",
+		"gender": "Female",
+		"zip": 320,
+		"birthdate": "2/23/2020",
+		"city": "Birātnagar"
+	},
+	{
+		"id": 7,
+		"firstName": "Denice",
+		"lastName": "Delaprelle",
+		"email": "ddelaprelle6@examiner.com",
+		"gender": "Female",
+		"zip": 482,
+		"birthdate": "12/12/2019",
+		"city": "Nakło nad Notecią"
+	},
+	{
+		"id": 8,
+		"firstName": "Alyosha",
+		"lastName": "Libbie",
+		"email": "alibbie7@dot.gov",
+		"gender": "Male",
+		"zip": 289,
+		"birthdate": "8/5/2019",
+		"city": "Encontrados"
+	},
+	{
+		"id": 9,
+		"firstName": "Molly",
+		"lastName": "Delaprelle",
+		"email": "mdelaprelle8@addtoany.com",
+		"gender": "Female",
+		"zip": 799,
+		"birthdate": "9/2/2019",
+		"city": "Sujitan"
+	},
+	{
+		"id": 10,
+		"firstName": "Leela",
+		"lastName": "Cordero",
+		"email": "lcordero9@dion.ne.jp",
+		"gender": "Female",
+		"zip": 883,
+		"birthdate": "4/20/2020",
+		"city": "Larochette"
+	}
+]
